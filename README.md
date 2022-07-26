@@ -1,3 +1,3 @@
 # Fundamentals
 SoftUni Fundamentals Module
-June 2022
+Maj 2022

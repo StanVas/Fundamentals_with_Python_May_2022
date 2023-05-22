@@ -1,3 +1,3 @@
 # Fundamentals
-SoftUni Fundamentals Module
+SoftUni Python Fundamentals Module
 May 2022
